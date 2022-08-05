@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\bin\Debug\net6.0\Examples004_Diff.exe
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\bin\Debug\net6.0\Examples004_Diff.deps.json
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\bin\Debug\net6.0\Examples004_Diff.runtimeconfig.json
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\bin\Debug\net6.0\Examples004_Diff.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\bin\Debug\net6.0\Examples004_Diff.pdb
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\refint\Examples004_Diff.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.pdb
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\Examples004_Diff.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples004_Diff\obj\Debug\net6.0\ref\Examples004_Diff.dll
