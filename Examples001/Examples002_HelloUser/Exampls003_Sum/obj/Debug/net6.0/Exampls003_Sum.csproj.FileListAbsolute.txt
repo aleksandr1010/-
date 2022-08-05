@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\bin\Debug\net6.0\Exampls003_Sum.exe
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\bin\Debug\net6.0\Exampls003_Sum.deps.json
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\bin\Debug\net6.0\Exampls003_Sum.runtimeconfig.json
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\bin\Debug\net6.0\Exampls003_Sum.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\bin\Debug\net6.0\Exampls003_Sum.pdb
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\refint\Exampls003_Sum.dll
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.pdb
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\Exampls003_Sum.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Документы\Examples C#\Examples001\Examples002_HelloUser\Exampls003_Sum\obj\Debug\net6.0\ref\Exampls003_Sum.dll
